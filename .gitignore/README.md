@@ -1,0 +1,2 @@
+用AJAX加载CSS，加载JS，加载HTML，加载XML，加载JAON
+用AJAX模拟分页操作
